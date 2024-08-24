@@ -6,7 +6,7 @@ const PORT=8000;
 
 app.use(cors())
 
-app.get("//artData",(req,res)=>{
+app.get("/api/artData",(req,res)=>{
     return res.json(artData);
 })
 app.listen(PORT,()=>console.log(`Server Started at PORT:${PORT}`))
