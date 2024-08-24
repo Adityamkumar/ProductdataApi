@@ -1,131 +1,120 @@
 [
   {
-    "id":1,
+    "id": 1,
     "image": "./leaf1.jpg",
     "price": 1200,
     "productName": "Leaf Carving"
   },
   {
-    "id":2,
+    "id": 2,
     "image": "./leaf2.jpg",
     "price": 1200,
     "productName": "Leaf Carving"
   },
   {
-    "id":3,
+    "id": 3,
     "image": "./leaf3.jpg",
     "price": 1200,
     "productName": "Leaf Carving"
   },
   {
-    "id":4,
+    "id": 4,
     "image": "./leaf4.jpg",
     "price": 1200,
     "productName": "Leaf Carving"
   },
-
   {
-    "id":5,
+    "id": 5,
     "image": "./leafp1.jpg",
     "price": 1200,
     "productName": "Leaf Painting"
   },
   {
-    "id":6,
+    "id": 6,
     "image": "./leafp2.jpg",
     "price": 1200,
     "productName": "Leaf Painting"
   },
   {
-    "id":7,
+    "id": 7,
     "image": "./leafp3.jpg",
     "price": 1200,
     "productName": "Leaf Painting"
   },
   {
-    "id":8,
+    "id": 8,
     "image": "./leafp4.jpg",
     "price": 1200,
     "productName": "Leaf Painting"
   },
-
   {
-    "id":9,
+    "id": 9,
     "image": "./paper1.jpg",
     "price": 1200,
     "productName": "Paper Art"
   },
   {
-    "id":10,
+    "id": 10,
     "image": "./paper2.jpg",
     "price": 1200,
     "productName": "Paper Art"
   },
   {
-    "id":11,
+    "id": 11,
     "image": "./paper3.jpg",
     "price": 1200,
     "productName": "Paper Art"
   },
   {
-    "id":12,
+    "id": 12,
     "image": "./paper4.jpg",
     "price": 1200,
     "productName": "Paper Art"
   },
+  { "id": 13, "image": "./img1.png", "price": 1200, "productName": "Painting" },
+  { "id": 14, "image": "./img2.png", "price": 1200, "productName": "Painting" },
+  { "id": 15, "image": "./img4.png", "price": 1200, "productName": "Painting" },
+  { "id": 16, "image": "./img5.png", "price": 1200, "productName": "Painting" },
   {
-    "id":13,
-    "image": "./img1.png",
-    "price": 1200,
-    "productName": "Painting"
-  },
-  {
-    "id":14,
-    "image": "./img2.png",
-    "price": 1200,
-    "productName": "Painting"
-  },
-  {
-    "id":15,
-    "image": "./img4.png",
-    "price": 1200,
-    "productName": "Painting"
-  },
-  {
-    "id":16,
-    "image": "./img5.png",
-    "price": 1200,
-    "productName": "Painting"
-  },
-
-  {
-    "id":17,
+    "id": 17,
     "image": "./min1.jpg",
     "price": 1200,
     "productName": "Miniature House"
   },
   {
-    "id":18,
+    "id": 18,
     "image": "./min2.jpg",
     "price": 1200,
     "productName": "Miniature House"
   },
   {
-    "id":19,
+    "id": 19,
     "image": "./min3.jpg",
     "price": 1200,
     "productName": "Miniature House"
   },
   {
-    "id":20,
+    "id": 20,
     "image": "./min4.jpg",
     "price": 1200,
     "productName": "Miniature House"
   },
   {
-    "id":21,
+    "id": 21,
     "image": "./min5.jpg",
     "price": 1200,
     "productName": "Miniature House"
+  },
+  {
+    "image": "./leaf4.jpg",
+    "Price": "2000",
+    "productName": "new Item",
+    "id": 22
+  },
+  {
+    "image": "./paper1.jpg",
+    "Price": "3000",
+    "productName": "new Item2",
+    "id": 23
   }
 ]
