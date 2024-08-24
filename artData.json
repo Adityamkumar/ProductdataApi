@@ -1,0 +1,120 @@
+
+[
+[
+  {
+    "image": "./leaf1.jpg",
+    "price": 1200,
+    "productName": "Leaf Carving"
+  },
+  {
+    "image": "./leaf2.jpg",
+    "price": 1200,
+    "productName": "Leaf Carving"
+  },
+  {
+    "image": "./leaf3.jpg",
+    "price": 1200,
+    "productName": "Leaf Carving"
+  },
+  {
+    "image": "./leaf4.jpg",
+    "price": 1200,
+    "productName": "Leaf Carving"
+  }
+],
+[
+  {
+    "image": "./leafp1.jpg",
+    "price": 1200,
+    "productName": "Leaf Painting"
+  },
+  {
+    "image": "./leafp2.jpg",
+    "price": 1200,
+    "productName": "Leaf Painting"
+  },
+  {
+    "image": "./leafp3.jpg",
+    "price": 1200,
+    "productName": "Leaf Painting"
+  },
+  {
+    "image": "./leafp4.jpg",
+    "price": 1200,
+    "productName": "Leaf Painting"
+  }
+],
+
+[
+  {
+    "image": "./paper1.jpg",
+    "price": 1200,
+    "productName": "Paper Art"
+  },
+  {
+    "image": "./paper2.jpg",
+    "price": 1200,
+    "productName": "Paper Art"
+  },
+  {
+    "image": "./paper3.jpg",
+    "price": 1200,
+    "productName": "Paper Art"
+  },
+  {
+    "image": "./paper4.jpg",
+    "price": 1200,
+    "productName": "Paper Art"
+  }
+],
+[
+  {
+    "image": "./img1.png",
+    "price": 1200,
+    "productName": "Painting"
+  },
+  {
+    "image": "./img2.png",
+    "price": 1200,
+    "productName": "Painting"
+  },
+  {
+    "image": "./img4.png",
+    "price": 1200,
+    "productName": "Painting"
+  },
+  {
+    "image": "./img5.png",
+    "price": 1200,
+    "productName": "Painting"
+  }
+],
+
+[
+  {
+    "image": "./min1.jpg",
+    "price": 1200,
+    "productName": "Miniature House"
+  },
+  {
+    "image": "./min2.jpg",
+    "price": 1200,
+    "productName": "Miniature House"
+  },
+  {
+    "image": "./min3.jpg",
+    "price": 1200,
+    "productName": "Miniature House"
+  },
+  {
+    "image": "./min4.jpg",
+    "price": 1200,
+    "productName": "Miniature House"
+  },
+  {
+    "image": "./min5.jpg",
+    "price": 1200,
+    "productName": "Miniature House"
+  }
+]
+]
