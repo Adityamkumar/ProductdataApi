@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "./leaf1.jpg",
+    "image": "https://img.freepik.com/free-vector/paint-brushes-color-palette_1308-126704.jpg",
     "price": 1200,
     "productName": "Leaf Carving"
   },
@@ -104,17 +104,5 @@
     "image": "./min5.jpg",
     "price": 1200,
     "productName": "Miniature House"
-  },
-  {
-    "image": "./leaf4.jpg",
-    "Price": "2000",
-    "productName": "new Item",
-    "id": 22
-  },
-  {
-    "image": "./paper1.jpg",
-    "Price": "3000",
-    "productName": "new Item2",
-    "id": 23
   }
 ]
